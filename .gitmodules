@@ -2,6 +2,9 @@
 	path = .registry
 	url = https://github.com/r-universe-org/cran-to-git
 	branch = HEAD
+[submodule "EFAfactors"]
+	path = EFAfactors
+	url = https://github.com/cran/EFAfactors
 [submodule "Qval"]
 	path = Qval
 	url = https://github.com/cran/Qval
