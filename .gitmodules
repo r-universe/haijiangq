@@ -5,6 +5,9 @@
 [submodule "EFAfactors"]
 	path = EFAfactors
 	url = https://github.com/cran/EFAfactors
+[submodule "LCPA"]
+	path = LCPA
+	url = https://github.com/cran/LCPA
 [submodule "LSTMfactors"]
 	path = LSTMfactors
 	url = https://github.com/cran/LSTMfactors
