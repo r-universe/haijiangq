@@ -5,6 +5,9 @@
 [submodule "EFAfactors"]
 	path = EFAfactors
 	url = https://github.com/cran/EFAfactors
+[submodule "ForceChoice"]
+	path = ForceChoice
+	url = https://github.com/cran/ForceChoice
 [submodule "LCPA"]
 	path = LCPA
 	url = https://github.com/cran/LCPA
